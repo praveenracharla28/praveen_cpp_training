@@ -16,9 +16,6 @@ class Date{
 		this->day+=1;
 	}
 	void operator--(int delta){this->day-=1;}
-void printDate(){
-	cout<<this->day<<endl;
-}
 
 };
 
