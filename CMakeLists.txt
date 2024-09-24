@@ -4,7 +4,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 # Set the project name
-project (hello_cmake)
+project (praveen_cpp_training)
 
 # Add an executable
-add_executable(hello_cmake Deligating_Constructor.cpp)
+add_executable(praveen_cpp_training Deligating_Constructor.cpp)
