@@ -44,10 +44,11 @@ int main() {
     // Write C++ code here
     //std::cout << "Try programiz.pro";
     
-     BankCustomer obj("praveen","abcdef","panNumber113");
+     BankCustomer customer1("praveen","abcdef","panNumber113","Email@gmail.com","9014054375");
+
+    cout<<customer1;
      
-     
-    BankCustomer *ptr=new BankCustomer("praveen","abcdef","panNumber113");
+   // BankCustomer *ptr=new BankCustomer("praveen","abcdef","panNumber113");
     
     return 0;
 }
