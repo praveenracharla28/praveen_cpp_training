@@ -17,10 +17,10 @@ OperandType sub(OperandType Operand1,OperandType Operand2){
 
 int main(){
   int result=add<int>(10,2);
-  std::out<<result<<std::endl;
-  float fResult=add<float>(10.2,40.3);
-  std::out<<fResult<<std::endl;
+  std::cout<<result<<std::endl;
+  float fResult=add<float>(10.2f,40.3f);
+  std::cout<<fResult<<std::endl;
   
   
-  return 0
+  return 0;
 }
