@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 //abstract class
-final class A{
+class A final{
     public:
     void m1(){} //closed 
     virtual void m2(){} //open for extensibility
