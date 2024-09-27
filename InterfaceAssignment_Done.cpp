@@ -1,3 +1,6 @@
+//Deligation 
+//Impelementing the interface not extending (Not a Inharitance)
+
 #include <iostream>
 #include <string>
 
